@@ -17,3 +17,6 @@
 ## Requisitos:
  -  Diagrama UML de clases
  -  Tests unitarios obligatorios (cobertura mínima 70%)
+
+# Diagrama
+![f0885995863c4f6c3bf08e1922bb6ea5](https://github.com/user-attachments/assets/4be8a7d2-e9b7-4e76-85b7-4f0d61d91624)
